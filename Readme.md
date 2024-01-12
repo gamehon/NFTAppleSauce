@@ -1,6 +1,6 @@
 NFT AppleSauce
 
-[Play](https://gamehon.github.io/NFTAppleSauce/html) on GitHub Pages!  
+[Play](https://gs.game-hero.com:8082/nftapplesauce/index.html) on GitHub Pages!  
 
 ## HELP
 
