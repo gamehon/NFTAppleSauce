@@ -25,5 +25,3 @@ NFT AppleSauce
 - Token ID : 42888468144103220299579002258578831840311148926609081518457264218461112893540
 
 - Depth Number : layer depth
-
-# FireFox - turn off mixed active block!
