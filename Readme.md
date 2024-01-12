@@ -1,5 +1,8 @@
 NFT AppleSauce
 
+OpenSea.io NFT Viewer & Interactive gaming contents.
+
+
 [Play](https://gs.game-hero.com:8082/nftapplesauce/index.html) on GitHub Pages!  
 
 ## HELP
