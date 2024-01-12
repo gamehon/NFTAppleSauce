@@ -1,6 +1,6 @@
 NFT AppleSauce
 
-[Play](https://gamehon.github.io/Gamestop-Shot/game) on GitHub Pages!  
+[Play](https://gamehon.github.io/NFTAppleSauce/html) on GitHub Pages!  
 
 ## HELP
 
