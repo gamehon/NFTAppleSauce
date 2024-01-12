@@ -4,6 +4,8 @@ NFT AppleSauce
 
 ## HELP
 
+[![](http://img.youtube.com/vi/xi3IJ2-poyQ/0.jpg)](https://youtu.be/xi3IJ2-poyQ?t=0s)
+
 <img src="/help/1.JPG" />
 
 1. Make new nft object.
@@ -18,7 +20,7 @@ NFT AppleSauce
 
 ## SAMPLE 
 
-# https://opensea.io/assets/GAMEHON/0x2953399124f0cbb46d2cbacd8a89cf0599974963/42888468144103220299579002258578831840311148926609081518457264218461112893540
+https://opensea.io/assets/GAMEHON/0x2953399124f0cbb46d2cbacd8a89cf0599974963/42888468144103220299579002258578831840311148926609081518457264218461112893540
 
 - Contract address : 0x2953399124f0cbb46d2cbacd8a89cf0599974963
 
