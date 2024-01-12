@@ -2,11 +2,11 @@ NFT AppleSauce
 
 ## HELP
 
-<img src="https://gamehon.github.io/help/1.JPG" />
+<img src="/help/1.JPG" />
 
 1. Make new nft object.
 
-<img src="https://gamehon.github.io/help/2.JPG" />
+<img src="/help/2.JPG" />
 
 2. Fill to input field.
 
@@ -23,3 +23,5 @@ NFT AppleSauce
 - Token ID : 42888468144103220299579002258578831840311148926609081518457264218461112893540
 
 - Depth Number : layer depth
+
+# FireFox - turn off mixed active block!
