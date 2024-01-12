@@ -2,11 +2,11 @@ NFT AppleSauce
 
 ## HELP
 
-<img src="https://github.com/gamehon/NFTAppleSauce/blob/main/help/1.JPG" />
+<img src="https://gamehon.github.io/help/1.JPG" />
 
 1. Make new nft object.
 
-<img src="https://github.com/gamehon/NFTAppleSauce/blob/main/help/2.JPG" />
+<img src="https://gamehon.github.io/help/2.JPG" />
 
 2. Fill to input field.
 
