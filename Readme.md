@@ -1,5 +1,7 @@
 NFT AppleSauce
 
+[Play](https://gamehon.github.io/Gamestop-Shot/game) on GitHub Pages!  
+
 ## HELP
 
 <img src="/help/1.JPG" />
