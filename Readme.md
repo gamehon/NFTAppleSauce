@@ -14,11 +14,11 @@ eth, matic, klay, base, zora, arb
 
 [![](http://img.youtube.com/vi/xi3IJ2-poyQ/0.jpg)](https://youtu.be/xi3IJ2-poyQ?t=0s)
 
-<img src="/help/1.JPG" />
+<img src="https://gamehon.github.io/NFTAppleSauce/help/1.JPG" />
 
 1. Make new nft object.
 
-<img src="/help/2.JPG" />
+<img src="https://gamehon.github.io/NFTAppleSauce/help/2.JPG" />
 
 2. Fill to input field.
 
