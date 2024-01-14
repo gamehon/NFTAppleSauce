@@ -3,7 +3,12 @@ NFT AppleSauce
 OpenSea.io NFT Viewer & Interactive gaming contents.
 
 
-[Play](https://gs.game-hero.com:8082/nftapplesauce/index.html) on GitHub Pages!  
+[Play](https://gamehon.github.io/NFTAppleSauce/html/) on GitHub Pages!  
+
+## UPDATE
+
+Added support type  
+eth, matic, klay, base, zora, arb
 
 ## HELP
 
@@ -30,3 +35,4 @@ https://opensea.io/assets/GAMEHON/0x2953399124f0cbb46d2cbacd8a89cf0599974963/428
 - Token ID : 42888468144103220299579002258578831840311148926609081518457264218461112893540
 
 - Depth Number : layer depth
+
